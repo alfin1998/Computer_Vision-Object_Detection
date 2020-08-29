@@ -18,7 +18,7 @@ Sistem dapat mendeteksi objek pada citra.
 
 Citra 1
 
-<img src="https://github.com/alfin1998/Computer_Vision-Global_Threshold/blob/master/ss/Deteksi.jpg" />
+<img src="https://github.com/alfin1998/Computer_Vision-Object_Detection/blob/master/ss/Deteksi.jpg" />
 
 Citra 2
 
